@@ -63,7 +63,7 @@ dt.predict([[5,6]])
 ```
 
 ## Output:
-data.head()
+### data.head()
 
 ![image](https://github.com/joeljohnjobinse/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/138955488/99c932c3-090c-45f9-9c61-095d720f58db)
 
