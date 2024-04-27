@@ -64,24 +64,31 @@ dt.predict([[5,6]])
 
 ## Output:
 ###data.head()
+
 ![image](https://github.com/joeljohnjobinse/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/138955488/99c932c3-090c-45f9-9c61-095d720f58db)
 
 ###data.info()
+
 ![image](https://github.com/joeljohnjobinse/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/138955488/8fa2b8cb-7142-4199-af49-e9f6a12a8100)
 
 ###isnull() and sum()
+
 ![image](https://github.com/joeljohnjobinse/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/138955488/6192b2d3-566f-4c40-8bec-70dc52f65e48)
 
 ###data.head() for salary
+
 ![image](https://github.com/joeljohnjobinse/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/138955488/4b4e9222-2190-48c4-b186-f4349c87b1d6)
 
 ###MSE value
+
 ![image](https://github.com/joeljohnjobinse/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/138955488/e07c3b62-380e-4291-a48a-d6bd0e76ccf9)
 
 ###r2 value
+
 ![image](https://github.com/joeljohnjobinse/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/138955488/eea04143-c472-4984-90ca-84f715a6e52a)
 
 ###data prediction
+
 ![image](https://github.com/joeljohnjobinse/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/138955488/a95d78d0-94de-4eac-beaa-c28b3557d0b5)
 
 ## Result:
